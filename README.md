@@ -14,9 +14,9 @@
 
 - [**Demo Playable Ads version 2**](https://kidcry0x.github.io/Playable-Ads_FNF-Mod-Music-Fight/High/FNF_Battle_Music_WIN_Minh/)
 
-- [**Demo Playable Ads version 3_1**](https://kidcry0x.github.io/Playable-Ads_FNF-Mod-Music-Fight/Pico/FNF_Battle_Music_FAIL_Minh/)
+- [**Demo Playable Ads version 3_1**](https://kidcry0x.github.io/Playable-Ads_FNF-Mod-Music-Fight/Pico/FNF_Battle_Music_FAIL_Minh/CLICK_FULL/)
 
-- [**Demo Playable Ads version 3_2**](https://kidcry0x.github.io/Playable-Ads_FNF-Mod-Music-Fight/Pico/FNF_Battle_Music_WIN_Minh/)
+- [**Demo Playable Ads version 3_2**](https://kidcry0x.github.io/Playable-Ads_FNF-Mod-Music-Fight/Pico/FNF_Battle_Music_WIN_Minh/CLICK_FULL/)
 
 ## Link Game
 

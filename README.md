@@ -8,17 +8,15 @@
 
 ## Demo Playable Ads
 
-- [**Demo Playable Ads version 1**](https://kidcry0x.github.io/Playable-Ads_FNF-Draw-Puzzle/FNF_V1/)
+- [**Demo Playable Ads version 1_1**](https://kidcry0x.github.io/Playable-Ads_FNF-Mod-Music-Fight/Bopeebo/FNF_Battle_Music_FAIL_Minh/)
 
-- [**Demo Playable Ads version 2_1**](https://kidcry0x.github.io/Playable-Ads_FNF-Draw-Puzzle/FNF_V2/FNFDrawNOPLAYFREE_FAIL/)
+- [**Demo Playable Ads version 1_2**](https://kidcry0x.github.io/Playable-Ads_FNF-Mod-Music-Fight/Bopeebo/FNF_Battle_Music_WIN_Minh/)
 
-- [**Demo Playable Ads version 2_2**](https://kidcry0x.github.io/Playable-Ads_FNF-Draw-Puzzle/FNF_V2/FNFDrawNOPLAYFREE_WIN/)
+- [**Demo Playable Ads version 2**](https://kidcry0x.github.io/Playable-Ads_FNF-Mod-Music-Fight/High/FNF_Battle_Music_WIN_Minh/)
 
-- [**Demo Playable Ads version 2_3**](https://kidcry0x.github.io/Playable-Ads_FNF-Draw-Puzzle/FNF_V2/FNFDrawPLAYFREE_FAIL/)
+- [**Demo Playable Ads version 3_1**](https://kidcry0x.github.io/Playable-Ads_FNF-Mod-Music-Fight/Pico/FNF_Battle_Music_FAIL_Minh/)
 
-- [**Demo Playable Ads version 2_4**](https://kidcry0x.github.io/Playable-Ads_FNF-Draw-Puzzle/FNF_V2/FNFDrawPLAYFREE_WIN/)
-
-- [**Demo Playable Ads version 3**](https://kidcry0x.github.io/Playable-Ads_FNF-Draw-Puzzle/FNF_V3/)
+- [**Demo Playable Ads version 3_2**](https://kidcry0x.github.io/Playable-Ads_FNF-Mod-Music-Fight/Pico/FNF_Battle_Music_WIN_Minh/)
 
 ## Link Game
 
